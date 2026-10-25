@@ -1,4 +1,4 @@
-name = "linkie"
+name = "static-qstxiv-dev"
 main = "src/index.js"
 workers_dev = true # used for test.py
 compatibility_date = "2023-09-04"
